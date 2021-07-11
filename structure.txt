@@ -1,0 +1,17 @@
+ 2 contractors 
+post_ID	 post_name
+
+ 0 store
+tov_ID	 tov_name	post_ID		Кол-во	 Цена/Ед
+
+-2 traffic
+Дата	 post_ID	tov_ID		Кол-во	 Цена/Ед
+
+ 1 buy_in	
+Дата	 post_ID	tov_ID		Кол-во   Цена/Ед	Сумма
+
+-1 sale_in
+Дата	 tov_ID		Кол-во		ЦенаЕд	 Сумма
+
+ 3 report 
+Дата	 post_ID	tov_ID		Кол-во   Цена/Ед	Сумма
